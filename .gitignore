@@ -1,0 +1,19 @@
+# Ignorer les données (trop lourd)
+data/
+*.mp4
+*.avi
+
+# Fichiers python et système
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Modèles entraînés
+*.pth
+*.pt

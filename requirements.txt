@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.7.0    # Pour le calcul des gradients Sobel et lecture vidéo
+numpy>=1.24.0           # Pour la manipulation des matrices
+scikit-learn>=1.2.0     # Pour la validation croisée et les métriques
+matplotlib>=3.7.0       # Pour tracer les courbes d'apprentissage
+tqdm                    # Pour les barres de progression
